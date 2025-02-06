@@ -9,3 +9,7 @@ int y=35;
 Console.WriteLine("x "-" y");
 Console.WriteLine (" perorm subtraction successfully");
 return 0;
+int multiply (int x, int y);
+Console.WriteLine("Enter two numbers ");
+Console.WriteLine("x "*" y");
+Console.WriteLine (" perorm Multiplication successfully");
